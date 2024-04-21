@@ -1,5 +1,5 @@
 ### Rodrigue de Guerre
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigue2g&theme=buefy&hide=html,php,css,SuperCollider,Makefile&count_private=true&show_icons=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigue2g&theme=buefy&hide=php,css,SuperCollider,Makefile&count_private=true&show_icons=true&layout=compact)
 
 <!--
 **Rodrigue2g/Rodrigue2g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
