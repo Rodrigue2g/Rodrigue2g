@@ -1,7 +1,7 @@
 ### Rodrigue de Guerre
-![Rodrigue de Guerre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigue2g&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigue2g&theme=transparent&hide=php,css,SuperCollider,Makefile&count_private=true&show_icons=true&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigue2g&theme=buefy&hide=php,css,SuperCollider,Makefile&count_private=true&show_icons=true&layout=compact)
+![Rodrigue de Guerre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigue2g&show_icons=true&theme=transparent)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigue2g&theme=buefy&hide=html,php,css,SuperCollider,Makefile&count_private=true&show_icons=true&layout=compact)
