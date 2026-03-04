@@ -1,6 +1,22 @@
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigue2g&theme=transparent&hide=php,css,SuperCollider,Makefile&count_private=true&show_icons=true&layout=compact)
 
 ![Rodrigue de Guerre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigue2g&show_icons=true&theme=transparent)
+-->
+## Hi, I'm Rodrigue 👋
+
+Master’s student at École Polytechnique Fédérale de Lausanne (EPFL), Switzerland 🇨🇭  
+Passionate about building, researching, and shipping impactful technology.
+
+🌐 [**Portfolio**](https://rodrigue2g.github.io)
+
+---
+
+### 📬 Contact
+* 📧 Email: [rodrigue.de.guerre@gmail.com](mailto:rodrigue.de.guerre@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/Rodrigue2g)
+
+
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigue2g&theme=buefy&hide=html,php,css,SuperCollider,Makefile&count_private=true&show_icons=true&layout=compact)
