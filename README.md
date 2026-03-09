@@ -3,10 +3,11 @@
 
 ![Rodrigue de Guerre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigue2g&show_icons=true&theme=transparent)
 -->
-## Hi, I'm Rodrigue 👋
+## Hi, I'm Rodrigue 
+<!--👋-->
 
-Master’s student at École Polytechnique Fédérale de Lausanne (EPFL), Switzerland 🇨🇭  
-Passionate about building, researching, and shipping impactful technology.
+Master’s student in EEE & Cybersecurity at École Polytechnique Fédérale de Lausanne (EPFL), Switzerland 🇨🇭  
+<!--Passionate about building, researching, and shipping impactful technology.-->
 
 🌐 [**Portfolio**](https://rodrigue2g.github.io)
 
@@ -14,7 +15,7 @@ Passionate about building, researching, and shipping impactful technology.
 
 ### 📬 Contact
 * 📧 Email: [rodrigue.de.guerre@gmail.com](mailto:rodrigue.de.guerre@gmail.com)
-* 💼 [LinkedIn](https://www.linkedin.com/in/Rodrigue2g)
+* 💼 LinkedIn: [Rodrigue de Guerre](https://www.linkedin.com/in/Rodrigue2g)
 
 
 
