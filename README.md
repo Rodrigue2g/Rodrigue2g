@@ -33,7 +33,7 @@ Master’s student in EEE & Cybersecurity at École Polytechnique Fédérale de 
   <a href="https://stackoverflow.com/users/22700631/rodrigue2g"> 
     <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   </a>
-   <a href="https://apps.apple.com/gb/developer/designø-group/id1788775946"> 
+   <a href="https://apps.apple.com/developer/designø-group/id1788775946"> 
      <img src="https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white" alt="App Store"/>
    </a>
 </div>  
